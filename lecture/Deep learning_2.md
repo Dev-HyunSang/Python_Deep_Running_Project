@@ -81,7 +81,7 @@ An example training set for four visual categories.
 - ㄴ multi-label classiflcation
 >강의자: 학점을 주려고 하면, 얼마나 공부했는지를 가지고 예측을 하는 프로그램을 만든다면, label이 많다, 이러한 것들을 classiflcation이라 한다.
 ### Predicting flnal exam score based on time spent
-![Alt text](/lecture/img/spent.jpg)
+![Alt text](/lecture/img/spent.JPG)
 > 직접 그리시면서 강의 하셨습니다, 10분 26초를 확인하세요.
 ### Pass/non-pass based on time spent
 ![Alt text](/lecture/img/spent.2.JPG)
