@@ -13,9 +13,9 @@
 - What is ML
 > 강의자: 머신러닝은 무엇일까?
 - What is learning?
-> 강의자: 또 러닝은 무엇일까?
-- ㄴ supervised
-- ㄴ unsupervised
+  - supervised
+  - unsupervised
+  > 강의자: 또 러닝은 무엇일까?
 - What is regression?
 > 강의자: 또 러닝의 종류 중 regression은 과연 뭘까?
 - What is classiflcation?
