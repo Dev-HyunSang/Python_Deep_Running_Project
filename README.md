@@ -36,11 +36,11 @@ Discord:Developer.HyunSang#7377
 
 링크: https://www.inflearn.com/course/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%A2%8C/
 
-- Andrew Ng’s and other ML tutorials
-- ㄴ https://class.coursera.org/ml-003/lecture
-- ㄴhttp://www.holehouse.org/mlclass/ (note)
-- Convolutional Neural Networks for Visual Recognition.
-- ㄴ http://cs231n.github.io/
-- Tensorflow
-- ㄴhttps://www.tensorflow.org
-- ㄴhttps://github.com/aymericdamien/TensorFlow-Examples
+Andrew Ng’s and other ML tutorials
+- https://class.coursera.org/ml-003/lecture
+- http://www.holehouse.org/mlclass/ (note)
+Convolutional Neural Networks for Visual Recognition.
+-  http://cs231n.github.io/
+Tensorflow
+- https://www.tensorflow.org
+- https://github.com/aymericdamien/TensorFlow-Examples
