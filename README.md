@@ -9,7 +9,7 @@
 
 김종혁
 
-GitHub: 
+GitHub: https://github.com/enfycius
 
 Email:hexk0131@gmail.com
 
@@ -17,7 +17,7 @@ Discord:김종혁#7842
 
 조민우
 
-GitHub:
+GitHub:https://github.com/whalsdn1003
 
 Email:
 
