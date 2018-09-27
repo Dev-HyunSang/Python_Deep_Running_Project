@@ -4,7 +4,7 @@
 
 [강의 내용/inflearn(클릭시 접속)](https://www.inflearn.com/course/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%A2%8C/)
 
-[강의 내용/youtube(클릭시 접속)])(https://youtu.be/BS6O0zOGX4E)
+[강의 내용/youtube(클릭시 접속)](https://youtu.be/BS6O0zOGX4E)
 
 ### 목차
 - 작성자&수업자 소개
