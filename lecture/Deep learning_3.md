@@ -68,9 +68,9 @@
 
 - How flt the line to our (trainging) data
 
-![Alt text](/lecture/img/6.jpg)
+![Alt text](/lecture/img/6.JPG)
 
-![Alt text](/lecture/img/5.jpg)
+![Alt text](/lecture/img/5.JPG)
 
 ### H(x)-y
 
