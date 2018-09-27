@@ -65,9 +65,8 @@ Email: hunkim+ml@gmail.com
   - Neural Networks 
   - 사용하는 비디오와 강의 동영상,강의 자료
 - Tensorflow
-- https://www.tensorflow.org
-- https://github.com/aymericdamien/TensorFlow-Examples
--  오픈 소스 등을 사용해서 강의를 만듬.
+  - https://www.tensorflow.org
+  - https://github.com/aymericdamien/TensorFlow-Examples
 ### Schedule 
 - Machine learning basic concepts
   - 머신러닝은 무엇인가? (기본적인)
@@ -79,7 +78,7 @@ Email: hunkim+ml@gmail.com
   - 많은 데이터를 가지고 Multivariable (Vector) linear를 정리하는 방법
 - Neural networks (신경망)
 - Deep learnig
-- ㄴ CNN
-- ㄴ RNN
+  - CNN
+  - RNN
 - Bidirectional Neural Networks
   - 강의자: 위 세 항목에 대해서 잘 공부 되면 Deep learnig은 쉽게 따라 갈 수 있을 것으로 생각 됨.
