@@ -1,4 +1,5 @@
 # Machine/Deep learnig 수업의 개요와 일정
+
 ### 수업
 모두를 위한 딥러닝- 기본적인 머신러닝과 딥러닝 강좌
 
@@ -6,11 +7,14 @@
 
 [강의 내용/youtube(클릭시 접속)](https://youtu.be/BS6O0zOGX4E)
 
+--------------
 ### 목차
 - 작성자&수업자 소개
 - Audience
 - Goals
 - Course structure
+
+--------------
 ### 작성자&수업자 소개
 
 작성자
@@ -29,6 +33,8 @@ Hong Kong University of Science and Technology 에서 컴퓨터 공학쪽으로 
 비디오나 강의에 대한 의견이 있으시면 아래로 이메일을 보내 주시면 됩니다.
 
 Email: hunkim+ml@gmail.com
+
+--------------
 ### Audience
 
 - Want to understand basic machine learnig(ML)
@@ -40,6 +46,8 @@ Email: hunkim+ml@gmail.com
   - 강의자:머신러닝이 잘 구현 되어 있는 툴이 많기 때문에, 아무것도 뭐가 들어 있는지 모르는 박스에서 출력하여 무슨 일을 할 수 있고, 머신러닝을 좀 더 효율적으로 사용할 수 있기 때문에 굉장히 좋은 출력값을 만들어 낼 수 있다.
 - Want to use Tensorflow and Python (optional)
   - 강의자:자신이 이론적인 것은 알고 TensorflowTool을 이용해서 구현 해 보고 싶다 하면 이 비디오를 통해서 충분히 구현 시킬 수 있다.
+
+--------------
 ### Goals
 - Basic nuderstanding of machine learning algorithms
   - Linear regression, Logistic regression(classiflcation) 
@@ -48,12 +56,16 @@ Email: hunkim+ml@gmail.com
 - Solve your  problems using machine learning tools
   - Tensorflow and Python 
   - 강의자: TensorFlow 와 파이썬을 이용해서 문제를 풀어 내는 정도까지 갈 수 있을 것이라 생각 됨.
+
+--------------
 ### Course structure
 두개로 나뉘어짐.
 - About 10min Lecture
   - 강의자: 10 min 정도의 수업 짧게 하는 이유는 잠깐 동안 수업을 들으면서 내용을 이해할 수 있을 정도로 수업 진행을 하며, 이동하면서 잠깐잠깐 들을 수 있는 정도로 수업을 진행함
 - Programming tutorial using Tensorflow
   - 강의자가 TensorflowTool를 이용해서 직접 프로그래밍 하면서 어떻게 돌아가는지 감을 가질 수 있다.
+
+--------------
 ### Acknowledgement
 - Andrew Ng’s and other ML tutorials
   - https://class.coursera.org/ml-003/lecture
@@ -67,6 +79,8 @@ Email: hunkim+ml@gmail.com
 - Tensorflow
   - https://www.tensorflow.org
   - https://github.com/aymericdamien/TensorFlow-Examples
+
+--------------
 ### Schedule 
 - Machine learning basic concepts
   - 머신러닝은 무엇인가? (기본적인)
