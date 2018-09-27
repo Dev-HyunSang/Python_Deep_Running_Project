@@ -25,34 +25,34 @@
 -------------------------------------------------------------------
 ## Predicting exam score: regression
 
-![Alt text](/lecture/img/socre.jpg)
+![Alt text](/lecture/img/socre.JPG)
 
 -------------------------------------------------------------------
 ## Regression (data)
 
-![Alt text](/lecture/img/data.jpg)
+![Alt text](/lecture/img/data.JPG)
 
 --------------------------------------------------------------------
 ## Regression (presentation)
 
-![Alt text](/lecture/img/presentation.jpg)
+![Alt text](/lecture/img/presentation.JPG)
 
 --------------------------------------------------------------------
 ## (Linear) Hypothesis
 
-![Alt text](/lecture/img/linear.jpg)
+![Alt text](/lecture/img/linear.JPG)
 
 ### H(x)=Wx+b
 
-![Alt text](/lecture/img/linear2.jpg)
+![Alt text](/lecture/img/linear2.JPG)
 
 --------------------------------------------------------------------
 ## Which hypothesis is better?
 
-![Alt text](/lecture/img/linear2.jpg)
+![Alt text](/lecture/img/linear2.JPG)
 
 
-![Alt text](/lecture/img/4.jpg)
+![Alt text](/lecture/img/4.JPG)
 
 ---------------------------------------------------------------------
 ## Cost function
@@ -61,7 +61,7 @@
 
 ### H(x)-y
 
-<img width="100" height="100" href="/lecture/img/4.jpg">
+![Alt text](/lecture/img/4.JPG)
 
 ---------------------------------------------------------------------
 ## Cost function 2 & Math
@@ -74,16 +74,16 @@
 
 ### H(x)-y
 
-<img width="100" height="100" href="/lecture/img/4.jpg">
+![Alt text](/lecture/img/4.JPG)
 
 --------------------------------------------------
 ## Cost function 3 & Math
 
-![Alt text](/lecture/img/7.jpg)
+![Alt text](/lecture/img/7.JPG)
 
-![Alt text](/lecture/img/8.jpg)
+![Alt text](/lecture/img/8.JPG)
 
 ----
 ## Goal:Minimize cost
 
-![Alt text](/lecture/img/9.jpg)
+![Alt text](/lecture/img/9.JPG)
