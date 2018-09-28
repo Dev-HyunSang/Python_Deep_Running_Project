@@ -91,7 +91,7 @@ An example training set for four visual categories.
 
 --------------
 ### Type of supervised learning
--P redicting flnal exam score based on time spent
+- P redicting flnal exam score based on time spent
   - regression
 > 강의자: 성적을 예측하는 것을 만들라고 하면, 0~100점 까지 많은 수를  예측하는 것을 regression이라고 합니다.
 - Pass/non-passs based on time spent
