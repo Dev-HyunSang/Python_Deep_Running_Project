@@ -25,7 +25,7 @@
     - http://cs23ln.github.io/
 - Tensorflow
     - https://www.tensorflow.org
-    - https::://github.com/aymericdamien/TensorFlow-Examples
+    - https://github.com/aymericdamien/TensorFlow-Examples
 -------------------------------------------------------------------
 ## Predicting exam score: regression
 
